@@ -1,0 +1,9 @@
+#Sun Jan 09 00:00:16 GMT+09:00 2022
+shadowDistance=512.0
+sunPathRotation=-20.0
+shadowMapResolution=3072
+RPSLightmap=true
+Saturation=0.90
+DOF=true
+ReflectRain=true
+vcloud_samples=90
